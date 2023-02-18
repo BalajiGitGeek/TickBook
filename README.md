@@ -20,9 +20,6 @@ Clone the repository: git clone https://github.com/BalajiGitGeek/TickBook/tree/m
 ## Contributing
 We welcome contributions from the community and encourage you to get involved in the development of TickBook. Please read the Contributing Guidelines for guidelines on how to contribute.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Privacy Policy
 TickBook respects your privacy and is committed to protecting your personal data. Please read the Privacy Policy for more information about how we handle your personal information.
 
