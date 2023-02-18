@@ -1,0 +1,36 @@
+.logo{
+    width: 150px;
+    height: 100px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.headside{
+    display: flex;
+    list-style: none;
+}
+.headside>li{
+    margin:10PX;
+}
+.top>h1{
+    font-family: 'Fauna One';
+    font-size: 40px;
+}
+.card{
+    border: 1px solid black;
+    width:200px;
+    margin: 10px;
+}
+.card>ul{
+    list-style: none;
+}
+.bodycard
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card>img{
+    width: 200px;
+}
