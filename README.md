@@ -3,17 +3,17 @@ TickBook is a convenient and easy-to-use movie ticket booking app that allows us
 
 ## Features
 The application is in development. I Planned to provide the below listed features to the application.
-Browse movie showtimes and book tickets for your favorite movies.
-View upcoming releases and get notified when they become available for booking.
-Choose your preferred movie theater and select your seats using a simple and intuitive interface.
-Pay securely using a variety of payment methods, including credit card, debit card, and mobile payment apps.
-Access your booking history and manage your upcoming movie plans all in one place.
-Receive confirmation and reminders via email or push notifications.
+* Browse movie showtimes and book tickets for your favorite movies.
+* View upcoming releases and get notified when they become available for booking.
+* Choose your preferred movie theater and select your seats using a simple and intuitive interface.
+* Pay securely using a variety of payment methods, including credit card, debit card, and mobile payment apps.
+* Access your booking history and manage your upcoming movie plans all in one place.
+* Receive confirmation and reminders via email or push notifications.
 
 ## Installation
 To install the app, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/Tickbook.git
+Clone the repository: git clone https://github.com/BalajiGitGeek/TickBook/tree/main
 Install the dependencies: npm install
 Start the app: npm start
 
