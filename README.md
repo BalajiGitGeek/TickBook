@@ -14,8 +14,8 @@ The application is in development. I Planned to provide the below listed feature
 To install the app, follow these steps:
 
 Clone the repository: git clone https://github.com/BalajiGitGeek/TickBook/tree/main
-Install the dependencies: npm install
-Start the app: npm start
+* Install the dependencies: npm install
+* Start the app: npm start
 
 ## Contributing
 We welcome contributions from the community and encourage you to get involved in the development of TickBook. Please read the Contributing Guidelines for guidelines on how to contribute.
